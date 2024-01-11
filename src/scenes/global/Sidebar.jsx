@@ -10,7 +10,6 @@ import PieChartOutlinedIcon from '@mui/icons-material/PieChartOutlineOutlined';
 import CalendarTodayOutlinedIcon from '@mui/icons-material/CalendarTodayOutlined';
 import PeopleOutlinedIcon from '@mui/icons-material/PeopleOutlined';
 import ReceiptOutlinedIcon from '@mui/icons-material/ReceiptOutlined';
-import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
 import HelpOutlinedIcon from '@mui/icons-material/HelpOutlined';
 import ContactsOutlinedIcon from '@mui/icons-material/ContactsOutlined';
 import PersonOutlinedIcon from '@mui/icons-material/PersonOutlined';
